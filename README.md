@@ -1,7 +1,7 @@
 # DocAI-App
 #### To Run this app, go through the following steps:
 #### - First, install all the libraries mentioned in the requirements.txt.
-![Alt text](<https://github.com/ShoaibMajidDar/DocAI-App/tree/main/images/Screenshot (181).png>)
+![Alt text](<https://github.com/ShoaibMajidDar/DocAI-App/blob/main/images/Screenshot%20(181).png>)
 ![Alt text](<https://github.com/ShoaibMajidDar/DocAI-App/tree/main/images/Screenshot (182).png>)
 #### - Open the terminal in the folder containing app.py and .env and type `streamlit run app.py`.
 ![Alt text](<https://github.com/ShoaibMajidDar/DocAI-App/tree/main/images/Screenshot (183).png>)
