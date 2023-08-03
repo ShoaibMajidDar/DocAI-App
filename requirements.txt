@@ -1,0 +1,7 @@
+streamlit
+easyocr
+opencv-python
+pdf2image
+torch
+torchvision
+torchaudio
